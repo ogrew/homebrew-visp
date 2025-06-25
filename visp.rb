@@ -2,7 +2,7 @@ class Visp < Formula
   desc "A simple ffmpeg wrapper tool for Apple Silicon Mac, written in Common Lisp"
   homepage "https://github.com/ogrew/visp"
   url "https://github.com/ogrew/visp/releases/download/v0.3.0/visp-v0.3.0-macos-arm64.zip"
-  sha256 "07cd0e68d1aede1445750aceaf8ca2b98bb7501e3b91c521956b209f6d3735f5"
+  sha256 "4ee99757ee6c31c0f42659e1a998cbf4e3778732dacf511ae932aa7191b148f2"
   license "MIT"
 
   if Hardware::CPU.intel?
